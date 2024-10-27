@@ -1,6 +1,8 @@
 # multiLLM
 This is a repo for GenAI M5 AST2
 
+![image](https://github.com/user-attachments/assets/d279a9f1-2403-4a9b-bfc4-2f5b7cc6f080)
+
 ## Steps to Follow
 
 1. Add your OpenAI key to your repository Secrets. 
