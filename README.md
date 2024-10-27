@@ -2,6 +2,7 @@
 This is a repo for GenAI M5 AST2
 
 ![image](https://github.com/user-attachments/assets/d279a9f1-2403-4a9b-bfc4-2f5b7cc6f080)
+![image](https://github.com/user-attachments/assets/7ef98b60-ecce-4824-8d99-a13d864073c2)
 
 ## Steps to Follow
 
